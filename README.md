@@ -1,28 +1,39 @@
-#👋 Hey, I'm GT Dev!
+# 👋 Hi, I'm Gabriel!
 
-🎮 Roblox Game Developer
-🧱 Builder • Game Development
-🔨 Building my own experiences
+💻 Aspiring Roblox Scripter
+⚙️ Luau • Game Systems
+>_ Learning • Developing • Growing
 
-🚧 Currently working on improving my skills
-
-## 🛠️ Tools
-
-Roblox Studio • Luau • Blender • GitHub
-
-## 📌 Projects
-
-Currently learning, experimenting and building new projects.
-More projects coming soon...
-
-----
+---
 
 ## 🎯 My Goal
 
-To learn, improve and eventually create my own experiences in Roblox.
+To become a professional Roblox programmer by learning Luau, creating game systems, and honing my coding skills.
 
-----
+## 🛠️ Tools and Technologies
+
+- Roblox Studio
+- Luau
+- GitHub
+- Blender
+
+## 📚 Currently Learning
+
+- Luau fundamentals
+- Roblox scripting
+- Game systems and mechanics
+- Clean and organized code
+
+## 🚀 Projects
+
+Currently learning, experimenting, and developing my skills.
+
+More projects coming soon...
 
 ## 📫 Contact
 
 GitHub: [@gt_dev](https://github.com/gt_dev)
+
+---
+
+<sub>Imagine. Code. Create.</sub>
