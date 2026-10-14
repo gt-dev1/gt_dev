@@ -8,7 +8,7 @@
 
 ## 🎯 My Goal
 
-To become a professional Roblox programmer by learning Luau, creating game systems, and honing my coding skills.
+Becoming a professional Roblox programmer by learning Luau, creating game systems, and honing my programming skills.
 
 ## 🛠️ Tools and Technologies
 
