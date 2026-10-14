@@ -33,7 +33,7 @@ More projects coming soon...
 ## 📫 Contact
 
 GitHub: [@gt_dev](https://github.com/gt_dev)
-
+Discord: [@gt_dev](https://discord.com/users/1548373293906796714)
 ---
 
 <sub>Imagine. Code. Create.</sub>
